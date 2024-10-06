@@ -1,0 +1,13 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\"",
+            "build": "echo \"Building project...\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
